@@ -15,13 +15,17 @@
 * Pytest 5.3.5
 
 ## Setup
-To run this project, open command window and type:
+To run this project start with opening venv:
 
 ```
-cd C:\Users\Adam\projekt> # or other path where is folder with project files
-python zadania_staz_atom.py
+cd C:\XXX\XXXX\Price_scraper>
+cd venv
+cd bin
+source activate
+cd ..
+cd ..
 ```
-To run specified task, type for example:
+Then, run 
 ```
 zad1()
 ```
