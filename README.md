@@ -1,5 +1,5 @@
 # Price scraper
->Backend recruitment tasks made for Python intern position.
+>Website presenting actual prices(API) and value of users assets (Btc,Xrp,Gold) created with Flask. App was created as a project in TechLeaders.eu program.
 
 ## Table of contents
 * [Technologies](#technologies)
@@ -8,7 +8,11 @@
 
 ## Technologies
 * Python version: 3.7
-
+* Flask 1.1.1
+* SQLAlchemy 1.3.13
+* WTForms 2.2.1
+* Starlette 0.13.2
+* Pytest 5.3.5
 
 ## Setup
 To run this project, open command window and type:
