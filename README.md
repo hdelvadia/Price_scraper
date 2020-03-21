@@ -18,26 +18,24 @@
 To run this project start with opening venv:
 
 ```
-cd C:\XXX\XXXX\Price_scraper>
+cd X:/XXX/XXXX/Price_scraper
 cd venv
 cd bin
 source activate
 cd ..
 cd ..
 ```
-Then, run 
+Then, run the installation on libraries:
 ```
-zad1()
+pip install requirements.txt
 ```
-or
+Next step is running Flask app:
 ```
-zad4()
+python price_scraper_app.py
 ```
-At the beginning of the file you can find line:
+or bt using bash script (https://github.com/AdamMisiak/Flask_app_Bash_script):
 ```
-import pandas as pd
+bash Flask_script
 ```
-which imports library called 'pandas'.
-At the beginning of every task, user have to choose if she/he wants to use data for only women, men or for all. It can be done by typing 'a','w' or 'm'. If user wants to leave each task, instead of typing 'a','w' or 'm' she/he has to type 'exit'
 ## Contact
 Created by Adam Misiak
