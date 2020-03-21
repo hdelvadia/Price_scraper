@@ -33,7 +33,7 @@ Next step is running Flask app:
 ```
 python price_scraper_app.py
 ```
-or bt using bash script (https://github.com/AdamMisiak/Flask_app_Bash_script):
+or by using bash script (https://github.com/AdamMisiak/Flask_app_Bash_script):
 ```
 bash Flask_script
 ```
